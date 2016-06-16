@@ -1,0 +1,11 @@
+---
+ - hosts: 127.0.0.1
+   user: root
+   
+   vars:
+    motd_msg: 'hello world'
+   tasks:
+   - name: sample motd
+     copy:        
+      dest: /etc/motd
+      content: "{{ motd_msg}}"

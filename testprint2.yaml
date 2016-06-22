@@ -3,7 +3,7 @@
    user: root
    
    vars:
-    motd_msg: 'hello world'
+    motd_msg: 'hello world \n thanks for using \n bye!'
    tasks:
    - name: sample motd
      copy:        

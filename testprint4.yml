@@ -1,5 +1,5 @@
 ---
- - hosts: ip-140-130-1-6
+ - hosts: 127.0.0.1
    user: root
    
    vars:

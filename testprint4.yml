@@ -9,3 +9,5 @@
      copy:        
       dest: /etc/motd
       content: "{{ motd_msg}}"
+	  
+	  

@@ -1,3 +1,4 @@
 #!/bin/bash
 
-mkdir /home/ec2-user/testfolder
+mkdir -p /home/ec2-user/testfolder
+

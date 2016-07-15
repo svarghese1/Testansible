@@ -1,0 +1,2 @@
+---
+inpu: /data2/test/somescript.sh >> /data2/test/somelogs.log

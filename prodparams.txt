@@ -1,0 +1,5 @@
+---
+x: nifi.version=
+y: 0.6.1
+p: configuration.file=
+q: /data1/opt/nifi/configuration_resources/flow.xml.gz 
